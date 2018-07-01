@@ -1,4 +1,4 @@
-
+package calc;
 public class StringCalculator {
 /**
  * A programhoz a tutorial ez volt: https://www.youtube.com/watch?v=cdsMIX9gB94
